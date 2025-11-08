@@ -6,7 +6,7 @@ A full-stack shopping cart application built with React, Node.js, Express, and M
 
 ## 🎥 Demo Video
 
-[Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+[Watch Demo Video](https://youtu.be/fTadpSVow1Y?si=FG9N8dXGleVSn9dT)
 <!-- Replace YOUR_VIDEO_LINK_HERE with your Loom or YouTube link -->
 
 ---
