@@ -2,8 +2,7 @@
 
 A full-stack shopping cart application built with React, Node.js, Express, and MongoDB.
 
-![Project Banner](screenshots/banner.png)
-<!-- Screenshot: Optional - Create a banner image with project name and tech stack logos -->
+
 
 ## 🎥 Demo Video
 
@@ -187,7 +186,7 @@ The app will open at `http://localhost:3000`
 ### 1. Homepage - Product Grid
 The main landing page displaying all products in a responsive grid layout with modern card design.
 
-![Homepage Product Grid](screenshots/homepage.png)
+<img width="1264" height="799" alt="image" src="https://github.com/user-attachments/assets/26fa01df-1bc4-4b24-aa8a-133621ac2df9" />
 <!-- Screenshot: Show the full homepage with product grid, header with cart button, and search/filter bar -->
 
 ---
@@ -195,7 +194,7 @@ The main landing page displaying all products in a responsive grid layout with m
 ### 2. Search & Filter Functionality
 Demonstrates the search bar, category filter dropdown, and sort options working together.
 
-![Search and Filter](screenshots/search-filter.png)
+<img width="1198" height="613" alt="image" src="https://github.com/user-attachments/assets/7f3f7cfa-9e04-407d-b460-f56d67f092c2" />
 <!-- Screenshot: Show search bar with a search term entered, category filter selected, and products filtered -->
 
 ---
@@ -203,7 +202,7 @@ Demonstrates the search bar, category filter dropdown, and sort options working 
 ### 3. Product Cards with Hover Effect
 Close-up view of product cards showing the design details and hover state.
 
-![Product Card Design](screenshots/product-cards.png)
+<img width="380" height="440" alt="image" src="https://github.com/user-attachments/assets/e49d207b-2952-4397-accd-14649e46d897" />
 <!-- Screenshot: Capture 2-3 product cards with one showing hover effect -->
 
 ---
@@ -211,7 +210,7 @@ Close-up view of product cards showing the design details and hover state.
 ### 4. Shopping Cart View
 The cart page showing added items with quantity controls, remove buttons, and total calculation.
 
-![Shopping Cart](screenshots/cart-view.png)
+<img width="938" height="807" alt="image" src="https://github.com/user-attachments/assets/dbde790e-a26c-4a94-ae17-6f9cac60f134" />
 <!-- Screenshot: Cart with 3-4 items added, showing quantity controls and total price -->
 
 ---
@@ -219,7 +218,7 @@ The cart page showing added items with quantity controls, remove buttons, and to
 ### 5. Cart Quantity Management
 Demonstrates the ability to update item quantities and remove items from cart.
 
-![Cart Management](screenshots/cart-management.png)
+<img width="756" height="106" alt="image" src="https://github.com/user-attachments/assets/7a1ec3db-d232-4875-9072-1ddc0b352a8f" />
 <!-- Screenshot: Focus on quantity controls (+/-) buttons and remove button -->
 
 ---
@@ -227,7 +226,7 @@ Demonstrates the ability to update item quantities and remove items from cart.
 ### 6. Checkout Modal
 The checkout form with customer information fields and order summary.
 
-![Checkout Form](screenshots/checkout-modal.png)
+<img width="526" height="661" alt="image" src="https://github.com/user-attachments/assets/b208c220-5a0e-43fb-8f18-e36999a7b0fd" />
 <!-- Screenshot: Checkout modal open with name/email fields and order summary visible -->
 
 ---
@@ -235,7 +234,7 @@ The checkout form with customer information fields and order summary.
 ### 7. Order Confirmation Receipt
 Success modal after checkout showing order details and action buttons.
 
-![Order Receipt](screenshots/receipt-modal.png)
+<img width="512" height="845" alt="image" src="https://github.com/user-attachments/assets/146e5f10-54dd-42ff-b61a-3fbe7fb64564" />
 <!-- Screenshot: Receipt modal with order ID, customer details, items list, total, and download/history buttons -->
 
 ---
@@ -243,7 +242,7 @@ Success modal after checkout showing order details and action buttons.
 ### 8. Order History Page
 Complete order history view showing all past purchases with expandable details.
 
-![Order History](screenshots/order-history.png)
+<img width="929" height="560" alt="image" src="https://github.com/user-attachments/assets/3238b129-8e75-48f4-a89a-c25435f0db62" />
 <!-- Screenshot: Order history page with 2-3 orders listed -->
 
 ---
@@ -251,7 +250,7 @@ Complete order history view showing all past purchases with expandable details.
 ### 9. Order Details Expanded
 Expanded order view showing full details of a past purchase.
 
-![Order Details](screenshots/order-details.png)
+<img width="875" height="667" alt="image" src="https://github.com/user-attachments/assets/b3ad8c2f-c848-4de0-8c52-c5c6e85bcdad" />
 <!-- Screenshot: One order expanded showing customer info, items with images, and download button -->
 
 ---
@@ -259,7 +258,7 @@ Expanded order view showing full details of a past purchase.
 ### 10. Downloaded Receipt File
 Example of the downloadable text receipt opened in notepad.
 
-![Downloaded Receipt](screenshots/receipt-file.png)
+<img width="471" height="500" alt="image" src="https://github.com/user-attachments/assets/f5a03e57-8c21-476b-9a82-a02d1b1f7d96" />
 <!-- Screenshot: Text file opened showing the receipt format with order details -->
 
 ---
@@ -267,7 +266,7 @@ Example of the downloadable text receipt opened in notepad.
 ### 11. Mobile Responsive View
 Demonstrates the responsive design on mobile devices.
 
-![Mobile Responsive](screenshots/mobile-view.png)
+<img width="459" height="796" alt="image" src="https://github.com/user-attachments/assets/d10728ab-1103-479d-8632-765f66bf3554" />
 <!-- Screenshot: Browser in mobile view (360px width) showing homepage or cart -->
 
 ---
@@ -275,29 +274,10 @@ Demonstrates the responsive design on mobile devices.
 ### 12. Backend API Running
 Terminal showing the backend server running successfully.
 
-![Backend Running](screenshots/backend-terminal.png)
+<img width="490" height="246" alt="image" src="https://github.com/user-attachments/assets/d2bef2cb-e893-47da-aff0-cb338033e7fd" />
 <!-- Screenshot: Terminal with "Server running on port 5000" and "MongoDB connected successfully" messages -->
 
 ---
-
-## 📸 How to Add Screenshots
-
-1. Create a `screenshots` folder in the root directory of the project
-2. Take screenshots following the naming convention above
-3. Place all screenshots in the `screenshots` folder
-4. The images will automatically display in this README
-
-### Screenshot Specifications:
-- **Format**: PNG or JPG
-- **Resolution**: 1920x1080 or 1280x720 (Full HD or HD)
-- **Browser Zoom**: 100%
-- **Window Size**: Maximized or consistent size
-- **Tips**: 
-  - Use clean test data (no Lorem Ipsum)
-  - Clear browser cache/cookies
-  - Hide personal information
-  - Use light mode for better visibility
-  - Capture full context (don't crop too tight)
 
 ## Key Features Implemented
 
